@@ -1,0 +1,13 @@
+# Nice
+https://www.historique-meteo.net/site/export.php?ville_id=181
+
+# Nantes
+https://www.historique-meteo.net/site/export.php?ville_id=221
+
+# Paris
+https://www.historique-meteo.net/site/export.php?ville_id=188
+
+
+
+
+
